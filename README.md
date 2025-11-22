@@ -86,9 +86,9 @@ python virtual_mouse.py
 
 You can modify the following parameters in the code:
 
-- `click_delay`: Change the cooldown time between clicks (default: 10 seconds)
-- Smoothing factor: Adjust cursor movement sensitivity (line with `/ 5`)
-- Scroll speed: Modify the scroll values (currently `120` and `-120`)
+- `click_delay`: Change the cooldown time between clicks (default: 10 seconds).
+- Smoothing factor: Adjust cursor movement sensitivity (line with `/ 5`).
+- Scroll speed: Modify the scroll values (currently `120` and `-120`).
 
 ## License
 
